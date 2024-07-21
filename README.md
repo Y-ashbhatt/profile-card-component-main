@@ -45,3 +45,8 @@ Mobile
 - Mobile-first workflow
 
 ## Author
+
+
+
+- Frontend Mentor - [@Y-ashbhatt](https://www.frontendmentor.io/profile/Y-ashbhatt)
+- Twitter - [@yash_bhatt01](https://x.com/yash_bhatt01)
