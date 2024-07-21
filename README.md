@@ -31,8 +31,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/Y-ashbhatt/profile-card-component-main)
+- Live Site URL: [Live site URL here](https://y-ashbhatt.github.io/profile-card-component-main/)
 
 ## My process
 
